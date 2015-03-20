@@ -4,7 +4,7 @@ MediumLightbox
 ####Nice and elegant way to add zooming functionality for images, inspired by medium.com
 
 This plugin reproduce exactly the same code that use Medium to add the smooth transition effect clicking over the images, with some improvement.
-* **It works on mobile**, unlike [Meidum](https:/medium.com).
+* **It works on mobile**, unlike [Medium](https:/medium.com).
 * **It's simple**, unlike [Fluidbox](http://terrymun.github.io/Fluidbox/).
 
 #####Key features
